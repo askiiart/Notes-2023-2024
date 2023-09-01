@@ -1,0 +1,9 @@
+# Government table
+
+A table of US and Texas government.
+
+|         | Legislative                                                                                                         | Executive                                                                                    | Judiciary                                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Federal | Congress - 2 bodies -> House of Reps (435 people, based on population) and Senate (100 people, 2 per state)         | POTUS - Chooses cabinet & VP                                                                 | SCOTUS -> Circuit courts -> District/Trial courts                                                                                |
+| State   | TX legislature - 2 bodies -> House of Reps (150 people, based on population) and Senate (31 people, 1 per district) | Governor - "Plural Executive"                                                                | (TX Supreme Court / Court of Criminal Appeals - split for civil and criminal cases) -> Appellate courts -> District/Trial courts |
+| Local   | City council                                                                                                        | Mayor (City council and Mayor hire a City Mgr., who does the day-to-day running of the city) | Municipal court                                                                                                                  |
