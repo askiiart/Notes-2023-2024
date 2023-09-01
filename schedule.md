@@ -11,4 +11,5 @@
 ## Tue/Thu
 
 | Start time | End time | Class           | Location  |
+| ---------- | -------- | --------------- | --------- |
 | 8:00       | 9:30-ish | AVID 3          | NDPP 1207 |
