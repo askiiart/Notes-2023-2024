@@ -37,7 +37,7 @@ Course's purpose is to improve writing and critical thinking skills. Upon comple
 
 - Plagiarism: Don't plagiarize, check with [turnitin.com](https://turnitin.com) before submitting.
 - AI: Don't do AI, treated same as plagiarism.
-   Email: Will respond within 48 hours, but usually much sooner.
+- Email: Will respond within 48 hours, but usually much sooner.
 - SAR: Any student needing accommodations must do it via SAR.
 - Late assignment policy: Assignments lose ten points per week they're late, ignoring extenuating circumstances that the instructor is notified of at a reasonable time.
 - Responsible employee: Title IX stuff, must beport sexual harassment, etc.
@@ -54,4 +54,13 @@ Course's purpose is to improve writing and critical thinking skills. Upon comple
 
 Webfolio consits of:"The memoir and argument paper or commentary, fully revised, with Works Cited when appropriate and images that help to convey the messages of the paper"
 
-## Course schedule: Can't transcribe this to markdown very well, just read the pdf.
+## Course schedule: Can't transcribe this to markdown very well, just go to the pdf.
+
+## Summary/important stuff
+
+- Every category is 20% of the total grade.
+- There's some web stuff.
+- Don't plagiarize or do AI.
+- Contact via email, response within 48 hours, usually less.
+- Late policy: 10 points per week late.
+- 
