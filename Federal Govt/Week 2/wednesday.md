@@ -73,4 +73,3 @@ The original (by John Locke) was "life, liberty, and property", but it was chang
 - Mercantilism: The economics of colonialism, basically. Colonies enrich the mother country.
 - Taxes: Colonists got mad about taxes, so they rebelled. KIng doubled down, so they started the Revolutionary War.
 - Systems of govt: Unitary is central power, confederal is state power. The US was confederal under the Articles of Confederation, but it was too weak, and switched to federalism (via the Constitution through the Virginia Plan).
-- 

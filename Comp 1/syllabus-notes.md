@@ -54,7 +54,7 @@ Course's purpose is to improve writing and critical thinking skills. Upon comple
 
 Webfolio consits of:"The memoir and argument paper or commentary, fully revised, with Works Cited when appropriate and images that help to convey the messages of the paper"
 
-## Course schedule: Can't transcribe this to markdown very well, just go to the pdf.
+## Course schedule: Can't transcribe this to markdown very well, just go to the pdf
 
 ## Summary/important stuff
 
@@ -63,4 +63,3 @@ Webfolio consits of:"The memoir and argument paper or commentary, fully revised,
 - Don't plagiarize or do AI.
 - Contact via email, response within 48 hours, usually less.
 - Late policy: 10 points per week late.
-- 
